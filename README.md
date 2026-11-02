@@ -37,7 +37,7 @@ The Enhanced System Monitor combines system resource tracking with security moni
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/sysguardian.git
+   git clone https://github.com/sysguardian.git
    cd sysguardian
    ```
 
